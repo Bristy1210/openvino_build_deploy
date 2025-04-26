@@ -2,7 +2,7 @@
 
 [![Apache License Version 2.0](https://img.shields.io/badge/license-Apache_2.0-green.svg)](https://github.com/openvinotoolkit/openvino_build_deploy/blob/master/LICENSE.txt)
 
-Welcome to the **Build and Deploy AI Solutions** repository! This repository contains pre-built components and code samples designed to accelerate the development and deployment of **production-grade AI** applications across various industries, including retail, healthcare, gaming, manufacturing, and more. With the OpenVINO™ Toolkit from Intel, you can enhance the capabilities of both Intel and non-Intel hardware to meet your specific needs.
+Welcome to the **Build and Deploy AI Solutions** repository! This project provides pre-built components and code samples designed to speed up the development and deployment of production-grade AI applications in a variety of industries — including retail, healthcare, gaming, and manufacturing.
 
 > Material and dependencies are self-contained, so you can get started building easily.
 
@@ -67,3 +67,4 @@ Hello, we're the AI Evangelist team at Intel! We’re a group of experts in AI s
 
 [//]: # (telemetry pixel)
 <img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=7003a37c-568d-40a5-9718-0d021d8589ca?project=root?file=README.md" />
+Improved grammar and clarity in the introduction paragraph of README.md
